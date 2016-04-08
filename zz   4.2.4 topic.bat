@@ -1,0 +1,1 @@
+START "#.mx" "4. TopicConsumer\bin\Debug\TopicConsumer.exe" #.mx

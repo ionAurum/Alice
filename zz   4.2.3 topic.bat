@@ -1,0 +1,1 @@
+START "*.porter.*" "4. TopicConsumer\bin\Debug\TopicConsumer.exe" *.porter.*
